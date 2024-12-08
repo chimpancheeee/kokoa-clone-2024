@@ -1,3 +1,3 @@
 # kokoa Clone 2024 Update
 
-CSSS got so much better!
+HTML & CSS are much better!
