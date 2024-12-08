@@ -1,3 +1,3 @@
 # kokoa Clone 2024 Update
 
-HTML & CSS are so much fun!
+CSSS got so much better!
